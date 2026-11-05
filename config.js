@@ -4,7 +4,7 @@
 // =====================================================================
 window.CONFIG = {
   // URL do projeto Supabase (ex.: https://abcdefghijk.supabase.co)
-  SUPABASE_URL: "COLE_AQUI_A_URL_DO_PROJETO",
+  SUPABASE_URL: "https://gestaodeobras-cloud.github.io/controle/",
 
   // Chave PÚBLICA "anon" (começa com eyJ...). NUNCA coloque aqui a "service_role"
   // nem o Access Token do Mercado Pago.
